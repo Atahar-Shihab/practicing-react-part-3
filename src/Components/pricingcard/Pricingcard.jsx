@@ -20,6 +20,15 @@ const Pricingcard = ({ pricing }) => {
                     }
                 </ol>
             </div>
+<div className="aura aura-dual">
+  <div className="card bg-base-100">
+    <div className="card-body">
+                  <button className="bg-blue-500 hover:bg-green-500 text-white font-bold py-2 px-4 rounded w-full">
+                Get Membership
+            </button>
+    </div>
+  </div>
+</div>
             
 </div>
     );

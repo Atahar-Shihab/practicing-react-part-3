@@ -5,7 +5,6 @@ const Pricing = ({ pricingPromise }) => {
 
 
     const pricingData = use(pricingPromise);
-    console.log(pricingData);
     return (
         <div className="">
             <h2 className="text-5xl font-bold text-center">Get our premium plans</h2>
