@@ -24,7 +24,7 @@ function App() {
       <main>
         <h1 className="underline text-7xl text-center text-blue-500 font-bold mt-20">Get started</h1>
 
-        <Suspense fallback={<span className="loading loading-infinity loading-xl"></span>
+        <Suspense fallback={<span className="justify-center loading loading-infinity loading-xl"></span>
         }>
           <Pricing fallback={<span className="loading loading-ball loading-xl"></span>} pricingPromise={pricingPromise}> </Pricing>
         </Suspense>
