@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1500,
+    "duration": "Monthly",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+    "description": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Gym equipment access",
+      "Basic workout guidance",
+      "Locker room access",
+      "Flexible gym hours"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2500,
+    "duration": "Monthly",
+    "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e",
+    "description": "A balanced plan for regular gym members.",
+    "features": [
+      "Full gym equipment access",
+      "Personal workout guidance",
+      "Fitness assessment",
+      "Group fitness classes",
+      "Locker room access"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 4000,
+    "duration": "Monthly",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Personalized training with additional fitness support.",
+    "features": [
+      "Unlimited gym access",
+      "Personal trainer support",
+      "Customized workout plan",
+      "Nutrition guidance",
+      "Monthly fitness assessment",
+      "Group fitness classes"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Elite Plan",
+    "price": 6000,
+    "duration": "Monthly",
+    "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48",
+    "description": "Premium fitness support for dedicated members.",
+    "features": [
+      "Unlimited gym access",
+      "Dedicated personal trainer",
+      "Personalized nutrition plan",
+      "Weekly progress tracking",
+      "Priority consultations",
+      "Premium locker access",
+      "All group fitness classes"
+    ]
+  }
+]
