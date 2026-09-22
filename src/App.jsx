@@ -2,9 +2,11 @@ import './App.css'
 import Daisynav from './Components/DaisyNav/Daisynav'
 import {Suspense} from 'react'
 import Pricing from './Components/Pricing/Pricing'
+import Recharts from './Components/recharts/Recharts';
 
 
-
+// import { RechartsDevtools } from '@recharts/devtools';
+// import { Line, LineChart } from 'recharts';
 
 
 const pricingPromise = fetch('pricingData.json').then(res => res.json());
@@ -45,6 +47,8 @@ function App() {
   <div></div>
   <div></div>
 </div>
+
+<Recharts></Recharts>
       </main>
     </>
   )
